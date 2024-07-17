@@ -1,4 +1,4 @@
-~~# Foro Challenge API
+# Foro Challenge API
 
 Este es un proyecto de API para la gestión de tópicos en un foro. La API permite crear, actualizar, eliminar y listar tópicos. El proyecto está desarrollado en Java utilizando Spring Boot.
 
